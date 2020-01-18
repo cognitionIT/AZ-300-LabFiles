@@ -28,7 +28,7 @@ The main tasks for this exercise are as follows:
 
 #### Task 1: Deploy an Azure VM scale set by using an Azure QuickStart template
 
-1. From your machine, start Microsoft Edge and browse to the Azure portal at http://portal.azure.com and sign in by using the Microsoft account that has the Owner role in the target Azure subscription.
+1. From the lab virtual machine, start Microsoft Edge and browse to the Azure portal at http://portal.azure.com and sign in by using the Microsoft account that has the Owner role in the target Azure subscription.
 
 1. In the Azure portal, in the Microsoft Edge window, start a **PowerShell** session within the Cloud Shell.
 
@@ -54,7 +54,7 @@ The main tasks for this exercise are as follows:
 
 1. Note the value of the `<custom-label>` that resulted in the successful outcome. You will need it in the next task.
 
-1. From your machine, start Microsoft Edge and browse to the Azure QuickStart template that deploys autoscale demo app on Ubuntu 16.04 at [**https://github.com/Azure/azure-quickstart-templates/tree/master/201-vmss-bottle-autoscale**](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vmss-bottle-autoscale).
+1. From the lab virtual machine, start Microsoft Edge and browse to the Azure QuickStart template that deploys autoscale demo app on Ubuntu 16.04 at [**https://github.com/Azure/azure-quickstart-templates/tree/master/201-vmss-bottle-autoscale**](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vmss-bottle-autoscale).
 
 1. Click **Deploy to Azure** and, when prompted, sign in by using the Microsoft account that has the Owner role in the target Azure subscription.
 
