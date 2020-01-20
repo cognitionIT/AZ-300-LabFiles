@@ -1,5 +1,3 @@
-# Note: This is a clone of the original git repo but customized for my courses.
-
 Contains all the excercises for the AZ-300 course.
 
 Tools needed for the labs and excercises:
@@ -20,3 +18,6 @@ https://go.microsoft.com/fwlink/?LinkId=708343&clcid=0x409
 https://aka.ms/win32-x64-user-stable
 
 The allfiles folder needs to be downloaded to the root of a local disk.
+
+
+**Note:** This is a clone of the original git repo but customized for my courses.
